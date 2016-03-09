@@ -1,0 +1,1 @@
+INSERT INTO product_url_fetch_attempted (id) VALUES ($1);
